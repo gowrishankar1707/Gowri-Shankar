@@ -1,0 +1,30 @@
+package practice.FlightBooking;
+import Pages.DashboardPage;
+import CommonUtilis.webdriver;
+
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	
+    public static void main( String[] args )
+    {
+    	try {
+    	WebDriver driver;
+       webdriver webDriver=new webdriver();
+       driver=webDriver.getDriver();
+       DashboardPage dashboardPage=new DashboardPage(driver);
+       dashboardPage.getStaticCurrencyDropdownElement(driver);
+    	}
+    	catch(Exception ex)
+    	{
+    		System.out.println("********************************************\n"+ex.getMessage()+"\n********************************************")
+    	}
+       
+    }
+}

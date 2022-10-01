@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="use_default_location" value="true"/>
+		<item key="project_location" value="C:\Users\Gower\eclipse-workspace\SampleGradleProject"/>
+		<item key="java_home" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath"/>
+	</section>
+</section>

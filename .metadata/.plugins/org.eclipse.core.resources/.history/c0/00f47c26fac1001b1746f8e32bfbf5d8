@@ -1,0 +1,209 @@
+import java.awt.EventQueue;
+
+
+
+import javax.swing.JFrame;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.awt.Font;
+import java.awt.Color;
+import java.awt.SystemColor;
+import javax.swing.JTable;
+import javax.swing.JTextField;
+import javax.swing.JLabel;
+import com.jgoodies.forms.factories.DefaultComponentFactory;
+
+
+import javax.swing.SwingConstants;
+import javax.swing.table.DefaultTableModel;
+import javax.swing.JScrollPane;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.LinkOption;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.io.FileInputStream;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
+import org.w3c.dom.Element;  
+import java.io.File; 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+public class Demo {
+	public String filePathname;
+	public FileInputStream inputFile;
+
+	private JFrame frame;
+	private final JButton btnLoadButton = new JButton("Load");
+    public DefaultTableModel tableModel=new DefaultTableModel();
+	public final JTextField filePath=new JTextField(100);
+	private JButton btnRun;
+	public JTable table;
+	public JLabel lblFileErrorMessage;
+	public ArrayList<ThreadGroup> threadGroupList=new ArrayList<ThreadGroup>();
+	public ArrayList<String> threadGroupNameList=new ArrayList<String>();
+	
+	
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Demo window = new Demo();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Demo() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(100, 100, 1194, 762);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		btnLoadButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GetFilePath();
+				AddElementsToTable();
+			}
+		});
+		btnLoadButton.setBackground(SystemColor.menu);
+		btnLoadButton.setFont(new Font("Calibri", Font.PLAIN, 14));
+		btnLoadButton.setBounds(1065, 71, 80, 30);
+		frame.getContentPane().add(btnLoadButton);
+		
+		
+
+		
+		
+		
+		
+		
+		filePath.setFont(new Font("Calibri", Font.PLAIN, 16));
+		filePath.setBounds(187, 74, 738, 30);
+		frame.getContentPane().add(filePath);
+		filePath.setColumns(10);
+		/***********************************	FILE PATH 	*********************************/
+		
+		JLabel lblFilePath = DefaultComponentFactory.getInstance().createLabel("File Path");
+		lblFilePath.setHorizontalAlignment(SwingConstants.CENTER);
+		lblFilePath.setFont(new Font("Calibri", Font.PLAIN, 15));
+		lblFilePath.setBounds(35, 74, 114, 30);
+		frame.getContentPane().add(lblFilePath);
+		/***********************************	BUTTON	*********************************/
+		btnRun = new JButton("Run ");
+		btnRun.setBackground(SystemColor.menu);
+		btnRun.setFont(new Font("Calibri", Font.PLAIN, 14));
+		btnRun.setBounds(1060, 678, 80, 30);
+		frame.getContentPane().add(btnRun);
+		
+		
+		/***********************************	TABLE	*********************************/
+		table = new JTable();
+		table.setModel(new DefaultTableModel(
+			new Object[][] {
+				{"ThreadGroupName", "VUsers", "RU Time", "Duration", "RD Time"},
+			},
+			new String[] {
+				"ThreadGroupName", "VUsers", "RU Time", "Duration", "RD Time"
+			}
+		));
+		table.getColumnModel().getColumn(0).setPreferredWidth(191);
+		table.getColumnModel().getColumn(2).setPreferredWidth(66);
+		table.setFont(new Font("Calibri", Font.PLAIN, 14));
+		table.setBounds(187, 255, 755, 265);
+		frame.getContentPane().add(table);
+		
+		lblFileErrorMessage = new JLabel("");
+		lblFileErrorMessage.setFont(new Font("Calibri", Font.PLAIN, 14));
+		lblFileErrorMessage.setBounds(187, 120, 250, 30);
+		frame.getContentPane().add(lblFileErrorMessage);
+	}
+	/***********************************	GET THREADGROUPNAME	*********************************/
+	public void GetFilePath()
+	{
+		
+		 
+		filePathname= filePath.getText();
+		try
+		{
+			inputFile = new FileInputStream(filePathname);
+			lblFileErrorMessage.setText("");
+			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+		    DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+		    Document doc = dBuilder.parse(inputFile);
+		    doc.getDocumentElement().normalize();
+		    NodeList nList = doc.getElementsByTagName("ThreadGroup");
+		    
+		    for(int i=0;i<nList.getLength();i++)
+		    {
+		    	Node nNode = nList.item(i);
+		    	if(nNode.getNodeType() == Node.ELEMENT_NODE)
+		    	{
+		    		Element eElement = (Element) nNode;
+		    		System.out.println( eElement.getAttribute("testname"));
+		    		threadGroupNameList.add(eElement.getAttribute("testname"));
+		    	}
+		    	
+		    }
+			
+		}
+		catch(Exception e)
+		{
+			lblFileErrorMessage.setText("File not found");
+		}
+		
+		
+		
+		}
+	public void AddElementsToTable()
+	{
+		
+		DefaultTableModel modelThreadGroupName=(DefaultTableModel) table.getModel();
+		Object rowData[]=new Object[5];
+		for(int i=0;i<threadGroupNameList.size();i++)
+		{
+			rowData[0]=threadGroupNameList.get(i);
+			modelThreadGroupName.addRow(rowData);
+			
+		}
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	}
+
