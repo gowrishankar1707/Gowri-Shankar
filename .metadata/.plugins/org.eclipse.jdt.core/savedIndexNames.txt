@@ -79,7 +79,6 @@ INDEX VERSION 1.131+C:\Users\Gower\eclipse-workspace\.metadata\.plugins\org.ecli
 300273038.index
 428556942.index
 861057527.index
-607503178.index
 2315966166.index
 319193505.index
 3991786412.index
