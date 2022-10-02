@@ -39,8 +39,9 @@ public class App
     	   if(productsNeeded.contains(productName[0]))
     	   {
     		   System.out.println(i);
-    		   driver.findElements(By.xpath("//button[text()=\"ADD TO CART\"]")).get(i).click();
-    		   wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//button[contains(text(),'ADDED')]")));
+   		   driver.findElements(By.cssSelector(".product-action button[type='button']")).get(i).click();
+//  not suggested    		   driver.findElement(By.xpath("//div[@class='product']/h4[contains(text(),"+listOfproducts.get(i).getText()+")]/parent::div/div[@class='product-action']/button")).click();
+//  not suggested  		   wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//button[contains(text(),'ADDED')]")));
     		   ++count;
     		   if(count == productsNeeded.size())
     			   break;
