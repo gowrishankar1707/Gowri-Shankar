@@ -5023,3 +5023,297 @@ org.eclipse.core.runtime.CoreException: Launch configuration AppTest.shouldAnswe
 2022-10-06 13:36:12,843 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\AddToCart\src\main\resources
 2022-10-06 13:36:12,848 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-06 13:36:12,848 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\AddToCart\src\test\resources
+2022-10-06 13:36:29,681 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 13:36:29,681 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\AddToCart\src\main\resources
+2022-10-06 13:36:29,701 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 13:36:29,702 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\AddToCart\src\test\resources
+2022-10-06 23:26:26,061 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Gower\eclipse-workspace\synchrizationAssignment\pom.xml
+2022-10-06 23:26:30,834 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractice:synchrizationAssignment:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\synchrizationAssignment\pom.xml.
+2022-10-06 23:26:31,077 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /synchrizationAssignment/src/main/java
+2022-10-06 23:26:31,095 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /synchrizationAssignment/src/test/java
+2022-10-06 23:26:31,631 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2022-10-06 23:26:33,011 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:26:33,014 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:26:33,018 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:26:33,018 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:27:26,333 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractice:synchrizationAssignment:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\synchrizationAssignment\pom.xml.
+2022-10-06 23:27:34,418 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:34,419 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:27:34,426 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:34,426 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:27:37,666 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:37,667 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:27:37,669 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:37,673 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:27:54,589 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractice:synchrizationAssignment:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\synchrizationAssignment\pom.xml.
+2022-10-06 23:27:55,796 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:55,797 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:27:55,799 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:55,799 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:27:57,889 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:57,889 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:27:57,891 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:27:57,891 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:29:56,556 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:29:56,557 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:29:56,560 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:29:56,560 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:35:42,848 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:35:42,852 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:35:42,855 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:35:42,855 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:36:48,425 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:36:48,427 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:36:48,428 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:36:48,428 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:37:15,450 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:37:15,451 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:37:15,453 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:37:15,453 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:41:28,099 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:41:28,100 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:41:28,105 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:41:28,105 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:43:40,362 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:43:40,363 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:43:40,369 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:43:40,370 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:43:56,787 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:43:56,787 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:43:56,789 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:43:56,789 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:44:40,586 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:44:40,587 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:44:40,588 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:44:40,589 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:44:45,868 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:44:45,869 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:44:45,871 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:44:45,871 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:45:19,343 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:45:19,344 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:45:19,346 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:45:19,346 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:46:02,504 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:02,504 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:46:02,507 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:02,507 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:46:24,675 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:24,676 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:46:24,678 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:24,679 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:46:27,739 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:27,739 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:46:27,741 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:46:27,741 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:48:52,246 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:48:52,247 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:48:52,249 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:48:52,249 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:49:15,657 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:49:15,658 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:49:15,660 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:49:15,660 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:50:25,215 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:50:25,215 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:50:25,218 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:50:25,219 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:51:00,704 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:51:00,705 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:51:00,706 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:51:00,706 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:51:51,669 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:51:51,670 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:51:51,673 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:51:51,673 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:52:26,919 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:52:26,919 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:52:26,921 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:52:26,921 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:53:41,242 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:53:41,243 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:53:41,245 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:53:41,245 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:53:44,659 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:53:44,660 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:53:44,661 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:53:44,662 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:54:39,470 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:54:39,471 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:54:39,473 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:54:39,473 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:55:15,312 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:55:15,313 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:55:15,315 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:55:15,315 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:56:16,598 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:56:16,599 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:56:16,601 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:56:16,601 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:57:34,826 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:57:34,827 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:57:34,831 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:57:34,831 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-06 23:58:05,659 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:58:05,664 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-06 23:58:05,665 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 23:58:05,665 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:00:27,596 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:00:27,597 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:00:27,599 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:00:27,599 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:01:18,117 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:01:18,118 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:01:18,120 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:01:18,120 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:03:06,861 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:06,862 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:03:06,865 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:06,866 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:03:50,684 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:50,684 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:03:50,686 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:50,686 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:03:57,982 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:57,982 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:03:57,984 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:03:57,984 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:08:08,337 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:08:08,338 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:08:08,341 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:08:08,341 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:09:33,748 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:09:33,748 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:09:33,752 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:09:33,752 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:10:40,002 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:10:40,003 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:10:40,004 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:10:40,004 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:12:34,112 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:12:34,113 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:12:34,115 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:12:34,116 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:13:57,819 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:13:57,820 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:13:57,822 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:13:57,822 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:14:05,611 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:14:05,612 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:14:05,615 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:14:05,616 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:14:42,115 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:14:42,115 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:14:42,117 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:14:42,117 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:15:42,631 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:15:42,632 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:15:42,635 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:15:42,636 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:15:48,042 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:15:48,043 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:15:48,044 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:15:48,045 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:17:16,566 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:17:16,567 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:17:16,568 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:17:16,569 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:17:43,809 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:17:43,810 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:17:43,814 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:17:43,814 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:18:31,873 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:18:31,874 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:18:31,876 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:18:31,876 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:19:15,944 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:19:15,945 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:19:15,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:19:15,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:20:01,158 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:01,159 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:20:01,163 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:01,164 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:20:09,060 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:09,061 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:20:09,063 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:09,063 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:20:15,040 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:15,040 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:20:15,042 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:15,042 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:20:37,870 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:37,871 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:20:37,872 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:37,872 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:20:43,457 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:43,457 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:20:43,459 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:20:43,459 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:21:29,687 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:21:29,687 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:21:29,691 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:21:29,692 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:22:08,289 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:22:08,290 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:22:08,292 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:22:08,292 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:22:16,286 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:22:16,287 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:22:16,288 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:22:16,288 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:24:03,563 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:03,574 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:24:03,576 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:03,576 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:24:09,719 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:09,720 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:24:09,721 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:09,721 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:24:12,225 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:12,226 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:24:12,228 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:24:12,228 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:25:04,871 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:04,872 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:25:04,873 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:04,873 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:25:15,252 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:15,253 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:25:15,254 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:15,254 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:25:24,494 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:24,494 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:25:24,497 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:24,497 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:25:36,725 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:36,726 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:25:36,728 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:25:36,728 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:26:18,530 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:26:18,531 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:26:18,533 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:26:18,533 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:26:22,712 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:26:22,713 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:26:22,714 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:26:22,714 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:27:08,599 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:27:08,599 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:27:08,601 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:27:08,601 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:31:05,977 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:31:05,978 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:31:05,981 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:31:05,981 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:31:45,175 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:31:45,175 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:31:45,177 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:31:45,178 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:32:10,200 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:32:10,200 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:32:10,203 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:32:10,203 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\test\resources
+2022-10-07 00:32:24,180 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 00:32:24,181 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\synchrizationAssignment\src\main\resources
+2022-10-07 00:32:24,182 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
