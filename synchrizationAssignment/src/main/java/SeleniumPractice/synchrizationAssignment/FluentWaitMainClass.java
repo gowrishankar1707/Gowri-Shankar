@@ -24,13 +24,13 @@ public class FluentWaitMainClass {
 		
 		WebElement e=wait.until(new Function<WebDriver,WebElement>() {
 			public WebElement apply(WebDriver driver) {
-				WebElement hw=driver.findElement(By.cssSelector("[id='finish']"));
-				String hwStyle=hw.getCssValue("display");
-				System.out.println(hwStyle);
-				if(hwStyle.contains("none"))
-					return null;
+				WebElement hw=driver.findElement(By.cssSelector("[id='finish'] h4"));
+//				String hwStyle=hw.getCssValue("display");
+//				System.out.println(hwStyle);
+				if(hw.isDisplayed())
+					return hw;
 				else
-					return driver.findElement(By.cssSelector("[id='finish'] h4"));
+					return null;
 				
 			}
 
