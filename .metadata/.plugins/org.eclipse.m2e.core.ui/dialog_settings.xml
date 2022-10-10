@@ -30,15 +30,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="SeleniumPractice.synchrizationAssignment"/>
-			<item value="SeleniumPractice.AddToCart"/>
 		</list>
 		<list key="groupId">
-			<item value="SeleniumPractice"/>
 		</list>
 		<list key="artifactId">
-			<item value="synchrizationAssignment"/>
-			<item value="AddToCart"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
