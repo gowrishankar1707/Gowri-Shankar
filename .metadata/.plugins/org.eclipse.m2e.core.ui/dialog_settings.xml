@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Gower\eclipse-workspace\synchrizationAssignment"/>
 			<item value="C:\Users\Gower\eclipse-workspace\FlightBooking"/>
 			<item value="C:\Users\Gower\eclipse-workspace\FreeCRMTest"/>
 			<item value="G:\traingeclipseproject"/>
@@ -30,10 +31,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="SeleniumPractise.Frames"/>
+			<item value="SeleniumPractise.SeleniumWindowHandles"/>
+			<item value="selenium"/>
 		</list>
 		<list key="groupId">
+			<item value="SeleniumPractise"/>
+			<item value="selenium"/>
 		</list>
 		<list key="artifactId">
+			<item value="Frames"/>
+			<item value="SeleniumWindowHandles"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
