@@ -5683,3 +5683,111 @@ org.eclipse.core.runtime.CoreException: Launch configuration AppTest.shouldAnswe
 2022-10-11 22:27:27,574 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\Frames\src\test\resources
 2022-10-11 22:28:19,074 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-11 22:28:19,075 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\Frames\src\main\resources
+2022-10-11 22:28:19,077 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 22:28:19,078 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\Frames\src\test\resources
+2022-10-11 23:12:08,253 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:12:08,254 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:12:08,257 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:12:08,258 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:12:21,654 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:12:21,654 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:12:21,658 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:12:21,660 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:13:04,735 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: java:practise:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\practise\pom.xml.
+2022-10-11 23:13:06,633 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:13:06,634 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:13:06,637 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:13:06,638 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:13:08,193 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:13:08,193 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:13:08,195 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:13:08,195 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:14:11,942 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:14:11,943 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:14:11,945 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:14:11,945 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:15:02,694 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:15:02,694 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\main\resources
+2022-10-11 23:15:02,696 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:15:02,697 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\practise\src\test\resources
+2022-10-11 23:16:04,943 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:16:04,944 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\Alerts\src\main\resources
+2022-10-11 23:16:04,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:16:04,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\Alerts\src\test\resources
+2022-10-11 23:18:06,874 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Gower\eclipse-workspace\SeleniumExploration\pom.xml
+2022-10-11 23:18:07,062 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractise:SeleniumExploration:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\SeleniumExploration\pom.xml.
+2022-10-11 23:18:07,288 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumExploration/src/main/java
+2022-10-11 23:18:07,305 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumExploration/src/test/java
+2022-10-11 23:18:07,437 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-10-11 23:18:08,594 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:08,594 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:18:08,596 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:08,597 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:18:55,573 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractise:SeleniumExploration:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\SeleniumExploration\pom.xml.
+2022-10-11 23:18:56,383 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:56,384 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:18:56,386 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:56,386 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:18:57,735 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:57,736 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:18:57,738 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:57,739 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:18:58,949 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumPractise:SeleniumExploration:0.0.1-SNAPSHOT @ C:\Users\Gower\eclipse-workspace\SeleniumExploration\pom.xml.
+2022-10-11 23:18:59,611 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:59,611 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:18:59,613 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:18:59,614 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:19:23,995 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:23,996 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:19:23,999 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:24,000 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:19:40,085 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:40,085 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:19:40,088 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:40,089 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:19:46,660 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:46,660 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:19:46,662 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:19:46,663 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:20:23,242 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:20:23,243 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:20:23,245 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:20:23,245 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:22:05,583 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:22:05,583 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:22:05,585 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:22:05,587 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:23:31,852 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:23:31,852 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:23:31,855 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:23:31,855 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:29:52,878 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:29:52,879 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:29:52,882 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:29:52,882 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:30:03,923 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:30:03,923 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:30:03,926 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:30:03,927 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:31:41,875 [Worker-37: Launching DriverScope (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:31:41,876 [Worker-37: Launching DriverScope (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:31:41,879 [Worker-37: Launching DriverScope (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:31:41,880 [Worker-37: Launching DriverScope (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:34:13,740 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:34:13,740 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:34:13,742 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:34:13,743 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:36:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:36:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:36:06,821 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:36:06,822 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:37:05,400 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:37:05,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:37:05,403 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:37:05,404 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:37:19,527 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:37:19,528 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
+2022-10-11 23:37:19,530 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:37:19,530 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\test\resources
+2022-10-11 23:38:16,802 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 23:38:16,803 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gower\eclipse-workspace\SeleniumExploration\src\main\resources
