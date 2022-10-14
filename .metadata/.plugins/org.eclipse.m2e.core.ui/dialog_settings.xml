@@ -31,6 +31,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="SeleniumPractise.SeleniumExploration"/>
 			<item value="SeleniumPractise.Frames"/>
 			<item value="SeleniumPractise.SeleniumWindowHandles"/>
 			<item value="selenium"/>
@@ -40,6 +41,7 @@
 			<item value="selenium"/>
 		</list>
 		<list key="artifactId">
+			<item value="SeleniumExploration"/>
 			<item value="Frames"/>
 			<item value="SeleniumWindowHandles"/>
 		</list>

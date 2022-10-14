@@ -1,6 +1,8 @@
 package SeleniumPractise.SeleniumExploration;
 
+import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -24,16 +26,33 @@ public class DriverScope {
 		
 		
 		List<WebElement> columnLinks=columnDriver.findElements(By.cssSelector("a"));
+		
+		String keys= Keys.chord(Keys.CONTROL,Keys.ENTER);
 		Actions action=new Actions(driver);
 		for(WebElement link : columnLinks) {
-			action.moveToElement(link).keyDown(Keys.CONTROL).click().build().perform();
+//			action.moveToElement(link).keyDown(Keys.CONTROL).click().build().perform();
+			link.sendKeys(keys);
 		}
 		
 		int windowsSize=driver.getWindowHandles().size();
+		Set<String> windows=driver.getWindowHandles();
+		Iterator<String> windowsIterator=windows.iterator();
 		if(columnLinks.size() == (windowsSize-1))
 			System.out.println("Links are opened correctly");
 		else
 			System.out.println("Links are not ");
+		
+		String parentTitle=driver.getTitle();
+		
+		int count=0;
+		
+		while(windowsIterator.hasNext())
+		{ 
+			count++;
+			driver.switchTo().window(windowsIterator.next());
+			if(count>1)
+				System.out.println(driver.getTitle());
+		}
 
 	}
 
