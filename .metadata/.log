@@ -3521,3 +3521,11 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2022-10-27 23:42:31.044
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Gower\eclipse\java-2021-03\eclipse\configuration\org.eclipse.osgi\517\0\.cp\lib\testng-remote.jar C:\Users\Gower\eclipse-workspace\TestNGTutorial\bin C:\Users\Gower\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar C:\Users\Gower\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar C:\Users\Gower\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Gower\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar C:\Users\Gower\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63105 -protocol json -d C:\Users\Gower\eclipse-workspace\TestNGTutorial\test-output C:\Users\Gower\AppData\Local\Temp\testng-eclipse-1933569732\testng-customsuite.xml
+java -ea -classpath C:\Users\Gower\eclipse\java-2021-03\eclipse\configuration\org.eclipse.osgi\517\0\.cp\lib\testng-remote.jar:C:\Users\Gower\eclipse-workspace\TestNGTutorial\bin:C:\Users\Gower\.p2\pool\plugins\org.testng_7.4.0.r202105021533.jar:C:\Users\Gower\.p2\pool\plugins\com.beust.jcommander_1.78.0.jar:C:\Users\Gower\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Gower\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar:C:\Users\Gower\.p2\pool\plugins\org.webjars.jquery_3.5.1.jar org.testng.remote.RemoteTestNG -serport 63105 -protocol json -d C:\Users\Gower\eclipse-workspace\TestNGTutorial\test-output C:\Users\Gower\AppData\Local\Temp\testng-eclipse-1933569732\testng-customsuite.xml
