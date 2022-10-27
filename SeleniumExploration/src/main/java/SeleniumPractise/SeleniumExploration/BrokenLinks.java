@@ -25,6 +25,7 @@ public class BrokenLinks {
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 		List<WebElement> URLs=driver.findElements(By.cssSelector("#gf-BIG .gf-t a"));
+		driver.manage().co
 		List<String> URLsAsString = new ArrayList<String>();
 		for(WebElement URL: URLs)
 		{
