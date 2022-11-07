@@ -11,7 +11,7 @@
 	</section>
 	<section name="RefactoringWizard.Convert from JUnit">
 		<item key="width" value="730"/>
-		<item key="height" value="550"/>
+		<item key="height" value="570"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item key="PreviewWizardPage.hide.derived" value="false"/>
